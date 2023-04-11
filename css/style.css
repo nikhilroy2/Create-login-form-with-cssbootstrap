@@ -5,4 +5,27 @@
 body {
   margin: 0;
   padding: 0;
+}
+
+header {
+  border-bottom: 2px solid #2C2069;
+}
+
+.text_prime {
+  color: #2C2069;
+}
+
+.btn-success {
+  background: #3F8542;
+}
+
+section#form_section .form_wrapper {
+  max-width: 700px;
+}
+section#form_section .form_wrapper .form_header {
+  color: #2C2069;
+}
+section#form_section .form_wrapper .form_body .form_title {
+  background: #F0F4F9;
+  color: #2c2069;
 }/*# sourceMappingURL=style.css.map */
