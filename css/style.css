@@ -7,12 +7,15 @@ body {
   padding: 0;
 }
 
-header {
+header#index_header {
   border-bottom: 2px solid #2C2069;
 }
-header button {
+header#index_header button {
   color: #2C2069;
   font-weight: bold;
+}
+header#index_2_header {
+  background: #182D58;
 }
 
 .text_prime {
@@ -32,4 +35,12 @@ section#form_section .form_wrapper .form_header {
 section#form_section .form_wrapper .form_body .form_title {
   background: #F0F4F9;
   color: #2c2069;
+}
+
+.content_wrapper {
+  max-width: 600px;
+}
+
+section#index2_section {
+  color: #727272;
 }/*# sourceMappingURL=style.css.map */
